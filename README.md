@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/iamakashsoni](https://github.com/iamakashsoni)
 
-- 💬 Ask me about **Frontend, Python, Flask, Django, Database, Github**
+- 💬 Ask me about **Frontend, Javascript, Reactjs, C++, Python, Flask, Django, Database(SQL, PSQL, MySQL), Github**
 
 - 📫 How to reach me **https://www.linkedin.com/in/iamakashsoni/**
 
