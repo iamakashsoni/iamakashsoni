@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/akashsoni_03" target="blank"><img src="https://img.shields.io/twitter/follow/akashsoni_03?logo=twitter&style=for-the-badge" alt="akashsoni_03" /></a> </p>
 
-- 🌱 I’m currently learning **Python Full Stack Developer**
+- 🌱 I’m currently learning **DSA (Problem Solving)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iamakashsoni](https://github.com/iamakashsoni)
 
