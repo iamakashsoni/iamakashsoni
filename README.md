@@ -1,77 +1,33 @@
-<h1> Akash Soni</h1>
-<br /> 
+<h1 align="center">Hi 👋, I'm Akash Ashok Soni</h1>
+<h3 align="center">Pursuing MCA at BVIMIT | Lifelong Learner with a Passion for Innovation and Problem-Solving</h3>
 
-                    
-`**Digital Craftsman (Developer / Programmer)**`
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamakashsoni&label=Profile%20views&color=0e75b6&style=flat-square" alt="iamakashsoni" /> </p>
 
-                    
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamakashsoni" alt="iamakashsoni" /></a> </p>
 
-<p align="left">Pursuing MCA at BVIMIT | Lifelong Learner with a Passion for Innovation and Problem-Solving</p>
-<p align="left"> 
-  <a href="https://github.com/iamakashsoni?tab=repositories&sort=stargazers#gh-light-mode-only">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/iamakashsoni?color=3ea97d&style=for-the-badge&labelColor=40b682&logo=star#gh-light-mode-only"/></a>
-  
-  <a href="https://github.com/iamakashsoni?tab=repositories&sort=stargazers#gh-dark-mode-only">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/iamakashsoni?color=655489&style=for-the-badge&labelColor=c691e9&logo=star#gh-dark-mode-only"/></a>
-  
-  <a href="https://github.com/iamakashsoni?tab=followers#gh-light-mode-only">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/iamakashsoni?color=2c4954&labelColor=2c3e50&style=for-the-badge&logo=person-add&label=Follow&logoColor=white#gh-light-mode-only"/></a>
-    
-  <a href="https://github.com/iamakashsoni?tab=followers#gh-dark-mode-only">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/iamakashsoni?color=dacc84&labelColor=f9e692&style=for-the-badge&logo=person-add&label=Follow&logoColor=white#gh-dark-mode-only"/></a>
-</p>
+<p align="left"> <a href="https://twitter.com/akashsoni_03" target="blank"><img src="https://img.shields.io/twitter/follow/akashsoni_03?logo=twitter&style=for-the-badge" alt="akashsoni_03" /></a> </p>
 
----
-<br />
+- 🌱 I’m currently learning **Python Full Stack Developer**
 
-                    
+- 👨‍💻 All of my projects are available at [https://github.com/iamakashsoni](https://github.com/iamakashsoni)
 
-<h2>Languages and Tools</h2> 
+- 💬 Ask me about **Frontend, Python, Flask, Django, Database, Github**
+
+- 📫 How to reach me **https://www.linkedin.com/in/iamakashsoni/**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/iamakashsoni/](https://www.linkedin.com/in/iamakashsoni/)
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<img width="280px"  src="https://skillicons.dev/icons?i=sqlite, js, html, css, react, py, postgres, php, nodejs, java, git, github, dotnet, django, c, cpp, bootstrap, aws&perline=9"  />
-</p>
-<br />
-
-                    
-
-<p><a href="https://github.com/iamakashsoni#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamakashsoni&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="iamakashsoni" /></a>
-  <a href="https://github.com/iamakashsoni#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamakashsoni&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="iamakashsoni" /></a>
+<a href="https://codepen.io/iamakashsoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="iamakashsoni" height="30" width="40" /></a>
+<a href="https://twitter.com/akashsoni_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akashsoni_03" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/iamakashsoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamakashsoni" height="30" width="40" /></a>
 </p>
 
-<br />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<a href="https://github.com/iamakashsoni#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iamakashsoni&count_private=true&show_icons=true&theme=nightowl#gh-dark-mode-only" alt="iamakashsoni" /></a>
-<a href="https://github.com/iamakashsoni#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=iamakashsoni&count_private=true&show_icons=true&theme=vue#gh-light-mode-only" alt="iamakashsoni" /></a>
-</p> 
-<br>
-<br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamakashsoni&show_icons=true&locale=en&layout=compact" alt="iamakashsoni" /></p>
 
-<p><a href="https://github.com/iamakashsoni#gh-dark-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=iamakashsoni&theme=nightowl#gh-dark-mode-only" alt="iamakashsoni"/></a>
-<a href="https://github.com/iamakashsoni#gh-light-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=iamakashsoni&theme=vue#gh-light-mode-only" alt="iamakashsoni"/></a></p>
-<br/>
-<br />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamakashsoni&show_icons=true&locale=en" alt="iamakashsoni" /></p>
 
-<p><a href="https://github.com/iamakashsoni#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=iamakashsoni&theme=nightowl#gh-dark-mode-only" alt="iamakashsoni" /></a>
-<a href="https://github.com/iamakashsoni#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=iamakashsoni&theme=vue#gh-light-mode-only" alt="iamakashsoni" /></a></p>
-<br/>
-
----
-
-
-                    
-
-<h2>My Latest Project</h2> 
-<br />
-<p><a href="https://github.com/iamakashsoni/Youtube Comment Sentiment Analysis#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamakashsoni&repo=Youtube Comment Sentiment Analysis&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
-<p><a href="https://github.com/iamakashsoni/Youtube Comment Sentiment Analysis#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamakashsoni&repo=Youtube Comment Sentiment Analysis&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
-<br />
-
-
-                    
-
-<h2>Connect With Me</h2> 
-<p align="left">
-<a href="https://twitter.com/" target="_blank"><img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" /></a>
-<a href="https://instagram.com/" target="_blank"><img align="left" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" /></a>
-<a href="https://www.linkedin.com/in/iamakashsoni/" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-</p>
