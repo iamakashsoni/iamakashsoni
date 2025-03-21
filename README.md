@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash Ashok Soni</h1>
-<h3 align="center">Pursuing MCA at BVIMIT | Lifelong Learner with a Passion for Innovation and Problem-Solving</h3>
+<h3 align="center">Lifelong Learner with a Passion for Innovation and Problem-Solving</h3>
+<h3 align="center"><a href="http://iamakashsoni.vercel.app/">View Portfolio</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamakashsoni&label=Profile%20views&color=0e75b6&style=flat-square" alt="iamakashsoni" /> </p>
 
